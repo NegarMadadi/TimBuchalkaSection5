@@ -1,4 +1,4 @@
-package org.example;
+package org.example.setion5;
 
 //Write a method named getLargestPrime with one parameter of type int named number.
 //
@@ -25,7 +25,8 @@ package org.example;
 //NOTE: Do not add a main method to the solution code.
 
 
-public class LargestPrime {
+public class
+LargestPrime {
     public static void main(String[] args) {
         System.out.println(getLargestPrime(21)); // should return 7 since 7 is the largest prime (3 * 7 = 21)
         System.out.println(getLargestPrime(217));  // should return 31 since 31 is the largest prime (7 * 31 = 217)

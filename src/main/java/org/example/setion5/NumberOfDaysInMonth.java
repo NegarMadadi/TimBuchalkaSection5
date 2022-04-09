@@ -1,4 +1,4 @@
-package org.example;
+package org.example.setion5;
 
 /*
 Write a method isLeapYear with a parameter of type int named year.

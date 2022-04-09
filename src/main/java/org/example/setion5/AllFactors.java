@@ -1,4 +1,4 @@
-package org.example;
+package org.example.setion5;
 
 //Write a method named printFactors with one parameter of type int named number.
 //

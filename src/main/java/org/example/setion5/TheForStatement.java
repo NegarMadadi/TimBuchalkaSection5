@@ -1,4 +1,4 @@
-package org.example;
+package org.example.setion5;
 
 public class TheForStatement {
     public static void main(String[] args) {

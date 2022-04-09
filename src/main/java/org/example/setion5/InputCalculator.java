@@ -1,4 +1,4 @@
-package org.example;
+package org.example.setion5;
 
 import java.util.Scanner;
 
@@ -53,7 +53,8 @@ import java.util.Scanner;
 //NOTE: The method inputThenPrintSumAndAverage should be defined as public static like we have been doing so far in the course.
 //
 //NOTE: Do not add the main method to the solution code.
-public class InputCalculator {
+public class
+InputCalculator {
 
     public static void main(String[] args) {
         inputThenPrintSumAndAverage();

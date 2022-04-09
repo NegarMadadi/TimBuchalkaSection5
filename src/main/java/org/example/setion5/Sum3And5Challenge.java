@@ -1,6 +1,7 @@
-package org.example;
+package org.example.setion5;
 
-public class Sum3And5Challenge {
+public class
+Sum3And5Challenge {
     public static void main(String[] args) {
         int count = 0;
         int sum = 0;

@@ -1,4 +1,4 @@
-package org.example;
+package org.example.setion5;
 
 //Write a method named printSquareStar with one parameter of type int named number.
 //
@@ -67,7 +67,8 @@ package org.example;
 //
 //NOTE: Do not add a main method to the solution code.
 
-public class DiagonalStar {
+public class
+DiagonalStar {
     public static void main(String[] args) {
         printSquareStar(2);
     }

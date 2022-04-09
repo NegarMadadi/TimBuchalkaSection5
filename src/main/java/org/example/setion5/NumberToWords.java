@@ -1,4 +1,4 @@
-package org.example;
+package org.example.setion5;
 
 //Write a method called numberToWords with one int parameter named number.
 //
@@ -70,7 +70,9 @@ package org.example;
 //
 //NOTE: Do not add a main method to the solution code.
 
-public class NumberToWords {
+public class
+
+NumberToWords {
     public static void main(String[] args) {
         numberToWords(123);// should print "One Two Three".
         numberToWords(1010);//should print "One Zero One Zero".

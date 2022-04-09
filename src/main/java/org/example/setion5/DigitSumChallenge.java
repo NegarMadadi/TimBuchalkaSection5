@@ -1,4 +1,4 @@
-package org.example;
+package org.example.setion5;
 
 public class DigitSumChallenge {
 

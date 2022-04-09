@@ -1,8 +1,9 @@
-package org.example;
+package org.example.setion5;
 
 import java.util.Scanner;
 
-public class ReadingUserInput {
+public class
+ReadingUserInput {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

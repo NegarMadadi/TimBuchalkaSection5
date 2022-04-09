@@ -1,4 +1,4 @@
-package org.example;
+package org.example.setion5;
 
 //What is the perfect number?
 //A perfect number is a positive integer which is equal to the sum of its proper positive divisors.
@@ -34,7 +34,8 @@ package org.example;
 //NOTE: The method isPerfectNumber should be defined as public static like we have been doing so far in the course.
 //
 //NOTE: Do not add a main method to the solution code.
-public class PerfectNumber {
+public class
+PerfectNumber {
     public static void main(String[] args) {
         System.out.println(isPerfectNumber(6)); //should return true since its proper divisors are 1, 2, 3 and the sum is 1 + 2 + 3 = 6
         System.out.println(isPerfectNumber(28)); //should return true since its proper divisors are 1, 2, 4, 7, 14 and the sum is 1 + 2 + 4 + 7 + 14 = 28

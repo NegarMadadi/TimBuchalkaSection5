@@ -1,8 +1,9 @@
-package org.example;
+package org.example.setion5;
 
 import java.util.Scanner;
 
-public class MinAndMaxChallenge {
+public class
+MinAndMaxChallenge {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

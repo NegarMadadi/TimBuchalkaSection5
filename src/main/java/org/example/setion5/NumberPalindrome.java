@@ -1,4 +1,4 @@
-package org.example;
+package org.example.setion5;
 
 
 //Write a method called isPalindrome with one int parameter called number.
@@ -48,7 +48,8 @@ package org.example;
 // number with the starting number (parameter).
 //
 //NOTE: The method isPalindrome needs to be defined as public static like we have been doing
-public class NumberPalindrome {
+public class
+NumberPalindrome {
     public static void main(String[] args) {
         System.out.println( isPalindrome(-1221)); // should return true
         System.out.println(isPalindrome(707)); // should return true

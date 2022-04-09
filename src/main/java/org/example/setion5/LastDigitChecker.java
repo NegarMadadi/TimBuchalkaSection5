@@ -1,4 +1,4 @@
-package org.example;
+package org.example.setion5;
 
 
 //Write a method named hasSameLastDigit with three parameters of type int.

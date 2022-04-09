@@ -1,4 +1,4 @@
-package org.example;
+package org.example.setion5;
 
 //Write a method named canPack with three parameters of type int named bigCount, smallCount, and goal.
 //
@@ -39,7 +39,8 @@ package org.example;
 //
 //NOTE: Do not add a main method to the solution code.
 
-public class FlourPackProblem {
+public class
+FlourPackProblem {
     public static void main(String[] args) {
         System.out.println(canPack(1, 0, 4)); //should return false since bigCount is 1 (big bag of 5 kilos) and goal is 4 kilos.
         System.out.println(canPack(1, 0, 5)); //should return true since bigCount is 1 (big bag of 5 kilos) and goal is 5 kilos.

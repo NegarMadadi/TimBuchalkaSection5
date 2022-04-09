@@ -1,4 +1,4 @@
-package org.example;
+package org.example.setion5;
 
 //Write a method called isOdd with an int parameter and call it number. The method needs to return a boolean.
 //Check that number is > 0, if it is not return false.
@@ -20,7 +20,8 @@ package org.example;
 //NOTE: Do not add a  main method to solution code.
 
 
-public class SumOdd {
+public class
+SumOdd {
     public static void main(String[] args) {
         System.out.println(sumOdd(1, 100)); //should return 2500
         System.out.println(sumOdd(-1, 100)); //should return -1

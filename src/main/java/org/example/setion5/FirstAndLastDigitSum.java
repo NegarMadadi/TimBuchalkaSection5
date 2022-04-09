@@ -1,4 +1,4 @@
-package org.example;
+package org.example.setion5;
 //Write a method named sumFirstAndLastDigit with one parameter of type int called number.
 //
 //The method needs to find the first and the last digit of the parameter number passed to the method, using a loop and return the sum of the first and the last digit of that number.
@@ -22,7 +22,8 @@ package org.example;
 //
 //NOTE: Do not add a  main method to solution code.
 
-public class FirstAndLastDigitSum {
+public class
+FirstAndLastDigitSum {
     public static void main(String[] args) {
 
         System.out.println(sumFirstAndLastDigit(252)); //→ should return 4, the first digit is 2 and the last is 2 which gives us 2+2 and the sum is 4.

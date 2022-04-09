@@ -1,4 +1,4 @@
-package org.example;
+package org.example.setion5;
 
 //Write a method named getGreatestCommonDivisor with two parameters of type int named first and second.
 //
@@ -39,7 +39,8 @@ package org.example;
 //NOTE: Do not add a main method to the solution code.
 
 
-public class GreatestCommonDivision {
+public class
+GreatestCommonDivision {
     public static void main(String[] args) {
         System.out.println(getGreatestCommonDivisor(25, 15)); //should return 5 since both can be divided by 5 without a remainder
         System.out.println(getGreatestCommonDivisor(12, 30)); // should return 6 since both can be divided by 6 without a remainder
